@@ -2,6 +2,8 @@
 Python program for visualizing 3D parametric curves from custom equations using NumPy and Matplotlib.
 # 3D Parametric Curve Visualizer
 
+# 3D Parametric Curve Visualizer
+
 A Python program that visualizes 3D parametric curves from user-defined equations using NumPy and Matplotlib.
 
 ## Example
